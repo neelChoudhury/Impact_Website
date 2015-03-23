@@ -1,0 +1,131 @@
+body
+		{
+			 
+			background-image:url("http://upload.wikimedia.org/wikipedia/commons/2/26/Andrew_Classroom_De_La_Salle_University.jpeg");
+			background-attachment:fixed;
+			background-size:cover;
+		}
+		h1
+		{
+			font-size: 500%; 
+			color: white;
+			font-family: 'Roboto', sans-serif;
+			font-weight:300;
+			text-align:centre;
+			height:.8em;
+			margin: 0 auto;
+		}
+		h2
+		{
+			font-size: 200%; 
+			color: white;
+			font-family: 'Roboto', sans-serif;
+			font-weight:300;
+			font-style:italic;
+			text-align:centre;
+			height:.8em;
+			margin: 0 auto;
+		}
+		 
+		button
+		{
+			 
+			font-size:150%;
+			font-family:'Roboto', sans-serif;
+			background-color:rgb(0,150,0);
+			border-radius:10px;
+			padding:5px;
+			width:120px;
+			height:50px;
+			color:white;
+			
+			
+			
+		}
+		#a
+		{
+			float:right; 
+			width:200px;
+		}
+		ul
+		{
+
+			 
+			
+			 
+			font-size:15px;
+			
+			background-color:rgba(0,0,0,.4);
+			border-radius:5px;
+			padding: 10px 5px 10px 5px;
+			box-shadow:2px 2px rgba(255,255,255,.5);
+			text-align:left;
+			
+		}
+		section li
+		{
+			display:block;
+			line-height:2em;
+			font-family:'Roboto', sans-serif;
+			font-size: 1.2em;
+			 
+			 
+		}
+		a:link
+		{
+			color:white;
+			font-family:'Roboto',sans-serif;
+			font-weight:thin;
+		}
+		a:visited
+		{
+			color:rgb(100,0,150);
+			
+			font-family:'Roboto',sans-serif;
+			font-weight:thin;
+		}
+		a:hover
+		{
+			color:rgb(0,145,50);
+			font-size:1.1em;
+			font-family:'Roboto',sans-serif;
+			font-weight:thin;
+		}
+		 
+		p
+		{
+			clear:both;
+			background-color:rgba(20,150,150,.6);
+			text-align:justify;
+			font-family: 'Roboto',sans-serif;
+			font-size:20px;
+			color:white;
+			padding:10px;
+			border-radius:5px;
+			width:700px;
+			line-height:1.6em;
+			box-shadow:4px 4px rgba(255,255,255,.5);
+			
+	
+		}
+	
+	#q.li
+		{
+			font-size:15px;
+			
+			background-color:rgba(0,0,0,.4);
+			border-radius:5px;
+			padding: 10px 5px 10px 5px;
+			box-shadow:2px 2px rgba(255,255,255,.5);
+			text-align:centre;
+			display:inline;
+		}	
+	.spc
+	{
+		padding-left:50px;
+		padding-right:50px;
+		font-family:'Roboto',sans-serif;
+		font-size:1.2em;
+		color:white;
+		
+	}	 
